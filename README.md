@@ -1,5 +1,7 @@
 ### Hello :earth_africa:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=burberius)](https://github.com/ryo-ma/github-profile-trophy)
+
 - :computer: I’m currently working as a freelance Java Developer and DevOps engineer
 - :house_with_garden: Living in the nice city of [Leipzig](https://www.leipzig.de/), Germany
 - :penguin: I work on [Ubuntu](https://www.ubuntu.com) Linux
